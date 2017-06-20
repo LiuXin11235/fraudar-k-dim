@@ -1,6 +1,6 @@
 # Fraudar k-dim
 
-> proposed by 毕克
+> proposed by BiKe
 
 
 
